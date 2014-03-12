@@ -28,9 +28,7 @@ task book: ["book:table_of_contents", "book:pages"]
 namespace :book do
   desc "Creates the table of contents for the book."
   task :table_of_contents do
-
-    content     = []
-    page_number = 1
+    content = []
 
     content << "# Table of Contents\n"
 
@@ -38,20 +36,17 @@ namespace :book do
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
-      content << "- [#{page_title}](#{page_number}-#{page_slug})"
-      page_number += 1
+      content << "- [#{page_title}](#{page_slug})"
     end
 
     content = content.join("\n") + "\n"
 
-    FileUtils::mkdir_p "book"
-    File.open("book/0-table-of-contents.md", 'w+') { |f| f.write(content) }
+    FileUtils::mkdir_p "pages/table-of-contents"
+    File.open("pages/table-of-contents/index.md", 'w+') { |f| f.write(content) }
   end
 
   desc "Creates the pages for the book."
   task :pages do
-    page_number = 1
-
     File.open("pages.txt", "r").each_line do |line|
       page_title = line.chomp
       page_slug  = sluggify(page_title)
@@ -61,9 +56,8 @@ namespace :book do
 ![#{page_title}](#{meta("asset_path")}#{page_slug}-1.jpg)
 )
 
-      FileUtils::mkdir_p "book"
-      File.open("book/#{page_number}-#{page_slug}.md", 'w+') { |f| f.write(page_content) }
-      page_number += 1
+      FileUtils::mkdir_p "pages/#{page_slug}"
+      File.open("pages/#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
     end
   end
 
