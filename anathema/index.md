@@ -1,6 +1,7 @@
+
 ---
 layout: default
-title: Anathema
+title: Anathema : Shoot It Yourself, Ignacio Galvez
 ---
 
 # Anathema

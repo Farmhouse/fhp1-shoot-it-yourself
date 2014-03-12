@@ -51,7 +51,13 @@ namespace :book do
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
-      page_content = %Q(# #{page_title}
+      page_content = %Q(
+---
+layout: default
+title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
+---
+
+# #{page_title}
 
 ![#{page_title}](#{meta("asset_path")}#{page_slug}-1.jpg)
 )
