@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Machine Head : Shoot It Yourself, Ignacio Galvez

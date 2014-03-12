@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Zu : Shoot It Yourself, Ignacio Galvez

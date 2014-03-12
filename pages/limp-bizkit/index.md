@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Limp Bizkit : Shoot It Yourself, Ignacio Galvez

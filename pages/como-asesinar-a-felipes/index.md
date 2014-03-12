@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Como Asesinar a Felipes : Shoot It Yourself, Ignacio Galvez

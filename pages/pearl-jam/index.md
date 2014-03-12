@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Pearl Jam : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Bad Religion : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Flaming Lips : Shoot It Yourself, Ignacio Galvez

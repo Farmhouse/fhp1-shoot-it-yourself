@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Chris Cornell : Shoot It Yourself, Ignacio Galvez

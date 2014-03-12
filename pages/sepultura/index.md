@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Sepultura : Shoot It Yourself, Ignacio Galvez

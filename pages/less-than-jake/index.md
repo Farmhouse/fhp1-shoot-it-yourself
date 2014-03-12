@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Less Than Jake : Shoot It Yourself, Ignacio Galvez

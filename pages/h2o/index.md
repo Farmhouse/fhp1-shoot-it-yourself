@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: H2O : Shoot It Yourself, Ignacio Galvez

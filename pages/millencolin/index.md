@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Millencolin : Shoot It Yourself, Ignacio Galvez

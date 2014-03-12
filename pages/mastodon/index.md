@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Mastodon : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Madball : Shoot It Yourself, Ignacio Galvez

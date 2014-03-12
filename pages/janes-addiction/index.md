@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Janes Addiction : Shoot It Yourself, Ignacio Galvez

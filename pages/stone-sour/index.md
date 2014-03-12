@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Stone Sour : Shoot It Yourself, Ignacio Galvez

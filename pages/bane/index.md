@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Bane : Shoot It Yourself, Ignacio Galvez

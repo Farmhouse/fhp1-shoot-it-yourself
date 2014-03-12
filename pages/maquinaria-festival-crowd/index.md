@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Maquinaria Festival Crowd : Shoot It Yourself, Ignacio Galvez

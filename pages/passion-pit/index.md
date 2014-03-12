@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Passion Pit : Shoot It Yourself, Ignacio Galvez

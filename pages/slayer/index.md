@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Slayer : Shoot It Yourself, Ignacio Galvez

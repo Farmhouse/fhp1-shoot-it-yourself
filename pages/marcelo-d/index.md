@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Marcelo D : Shoot It Yourself, Ignacio Galvez

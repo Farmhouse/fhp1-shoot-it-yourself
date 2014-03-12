@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Biohazard : Shoot It Yourself, Ignacio Galvez

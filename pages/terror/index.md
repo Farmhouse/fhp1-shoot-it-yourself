@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Terror : Shoot It Yourself, Ignacio Galvez

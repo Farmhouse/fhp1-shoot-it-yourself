@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Suicidal Tendencies : Shoot It Yourself, Ignacio Galvez

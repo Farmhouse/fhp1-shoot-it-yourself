@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Onyx : Shoot It Yourself, Ignacio Galvez

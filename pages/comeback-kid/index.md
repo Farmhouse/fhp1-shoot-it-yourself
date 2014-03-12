@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Comeback Kid : Shoot It Yourself, Ignacio Galvez

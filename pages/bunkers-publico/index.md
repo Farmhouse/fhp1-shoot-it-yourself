@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Bunkers Publico : Shoot It Yourself, Ignacio Galvez

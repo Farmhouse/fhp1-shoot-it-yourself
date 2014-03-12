@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Mondo Cane : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: P.O.D. : Shoot It Yourself, Ignacio Galvez

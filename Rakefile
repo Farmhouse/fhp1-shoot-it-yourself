@@ -55,8 +55,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
-      page_content = %Q(
----
+      page_content = %Q(---
 layout: default
 title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
 ---

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Kanye : Shoot It Yourself, Ignacio Galvez

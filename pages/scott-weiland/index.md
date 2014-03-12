@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Scott Weiland : Shoot It Yourself, Ignacio Galvez

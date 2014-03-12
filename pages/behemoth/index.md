@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Behemoth : Shoot It Yourself, Ignacio Galvez

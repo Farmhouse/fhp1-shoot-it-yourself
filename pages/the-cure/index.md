@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: The Cure : Shoot It Yourself, Ignacio Galvez

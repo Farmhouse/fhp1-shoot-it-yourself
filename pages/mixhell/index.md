@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Mixhell : Shoot It Yourself, Ignacio Galvez

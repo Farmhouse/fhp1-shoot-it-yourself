@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Helmet : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Anthrax : Shoot It Yourself, Ignacio Galvez

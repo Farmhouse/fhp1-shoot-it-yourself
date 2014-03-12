@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Anathema : Shoot It Yourself, Ignacio Galvez

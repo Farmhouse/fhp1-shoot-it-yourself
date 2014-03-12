@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Planet Hemp : Shoot It Yourself, Ignacio Galvez

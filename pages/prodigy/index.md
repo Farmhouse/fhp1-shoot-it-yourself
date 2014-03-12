@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Prodigy : Shoot It Yourself, Ignacio Galvez

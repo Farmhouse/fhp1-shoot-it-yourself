@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Tomahawk : Shoot It Yourself, Ignacio Galvez

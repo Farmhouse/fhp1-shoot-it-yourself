@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Primus : Shoot It Yourself, Ignacio Galvez

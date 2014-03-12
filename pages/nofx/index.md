@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: NOFX : Shoot It Yourself, Ignacio Galvez

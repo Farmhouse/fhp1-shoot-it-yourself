@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Suicide Silence : Shoot It Yourself, Ignacio Galvez

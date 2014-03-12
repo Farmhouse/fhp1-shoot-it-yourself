@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Incubus : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Lamb of God : Shoot It Yourself, Ignacio Galvez

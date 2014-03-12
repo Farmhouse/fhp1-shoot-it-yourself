@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Descendents : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Frnz Ferdinand : Shoot It Yourself, Ignacio Galvez

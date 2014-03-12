@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Beastie Boys : Shoot It Yourself, Ignacio Galvez

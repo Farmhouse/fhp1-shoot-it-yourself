@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Possesed : Shoot It Yourself, Ignacio Galvez

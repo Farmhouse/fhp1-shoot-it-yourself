@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Circle Jerks : Shoot It Yourself, Ignacio Galvez

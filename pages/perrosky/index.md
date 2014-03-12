@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Perrosky : Shoot It Yourself, Ignacio Galvez

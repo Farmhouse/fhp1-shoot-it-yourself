@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Rage Against the Machine : Shoot It Yourself, Ignacio Galvez

@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Public Enemy : Shoot It Yourself, Ignacio Galvez

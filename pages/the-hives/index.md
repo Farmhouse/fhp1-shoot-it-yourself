@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: The Hives : Shoot It Yourself, Ignacio Galvez

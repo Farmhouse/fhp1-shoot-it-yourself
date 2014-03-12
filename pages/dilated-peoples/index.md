@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Dilated Peoples : Shoot It Yourself, Ignacio Galvez

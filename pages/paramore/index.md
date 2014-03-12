@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Paramore : Shoot It Yourself, Ignacio Galvez

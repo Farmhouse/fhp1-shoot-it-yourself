@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Moonspell : Shoot It Yourself, Ignacio Galvez
