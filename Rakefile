@@ -25,31 +25,33 @@ task default: ["book"]
 desc "Builds the whole book."
 task book: ["book:table_of_contents", "book:pages"]
 
-namespace :book do
-  desc "Creates the table of contents for the book."
-  task :table_of_contents do
-    content = []
+file 'pages/index.md' => '_data/pages.yml' do
+  content = []
 
-    content << "---
+  content << "---
 layout: default
 title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 ---"
-    content << "# Table of Contents\n"
+  content << "# Table of Contents\n"
 
-    pages = YAML.load_file('_data/pages.yml')
+  pages = YAML.load_file('_data/pages.yml')
 
-    pages.each do |page|
-      page_title = page["name"]
-      page_slug  = sluggify(page_title)
+  pages.each do |page|
+    page_title = page["name"]
+    page_slug  = sluggify(page_title)
 
-      content << "- [#{page_title}](/pages/#{page_slug})"
-    end
-
-    content = content.join("\n") + "\n"
-
-    FileUtils::mkdir_p "pages"
-    File.open("pages/index.md", 'w+') { |f| f.write(content) }
+    content << "- [#{page_title}](/pages/#{page_slug})"
   end
+
+  content = content.join("\n") + "\n"
+
+  FileUtils::mkdir_p "pages"
+  File.open("pages/index.md", 'w+') { |f| f.write(content) }
+end
+
+namespace :book do
+  desc "Creates the table of contents for the book."
+  task table_of_contents: %w[pages/index.md]
 
   desc "Creates the pages for the book."
   task :pages do
