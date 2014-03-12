@@ -41,8 +41,8 @@ namespace :book do
 
     content = content.join("\n") + "\n"
 
-    FileUtils::mkdir_p "pages/table-of-contents"
-    File.open("pages/table-of-contents/index.md", 'w+') { |f| f.write(content) }
+    FileUtils::mkdir_p "_includes"
+    File.open("_includes/table-of-contents.md", 'w+') { |f| f.write(content) }
   end
 
   desc "Creates the pages for the book."
