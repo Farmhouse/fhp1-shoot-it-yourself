@@ -16,7 +16,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 - [Biohazard](/pages/biohazard)
 - [Blur](/pages/blur)
 - [Brujeria](/pages/brujeria)
-- [Bunkers Publico](/pages/bunkers-publico)
+- [Bunkers Crowd](/pages/bunkers-crowd)
 - [Cannibal Corpse](/pages/cannibal-corpse)
 - [Chris Cornell](/pages/chris-cornell)
 - [Circle Jerks](/pages/circle-jerks)
