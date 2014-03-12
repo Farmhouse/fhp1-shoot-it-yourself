@@ -62,7 +62,9 @@ namespace :book do
   end
 end
 
-file 'pages/index.md' => '_data/pages.yml' do
+directory 'pages'
+
+file 'pages/index.md' => %w[pages _data/pages.yml] do
   content = []
 
   content << "---
@@ -82,7 +84,6 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 
   content = content.join("\n") + "\n"
 
-  FileUtils::mkdir_p "pages"
   File.write("pages/index.md", content)
 end
 
