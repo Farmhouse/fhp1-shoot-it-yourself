@@ -32,11 +32,11 @@ namespace :book do
 
     content << "# Table of Contents\n"
 
-    File.open("pages.txt", "r").each_line do |line|
+    File.open("_dev/pages.txt", "r").each_line do |line|
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
-      content << "- [#{page_title}](#{page_slug})"
+      content << "- [#{page_title}](/#{page_slug})"
     end
 
     content = content.join("\n") + "\n"
@@ -47,7 +47,7 @@ namespace :book do
 
   desc "Creates the pages for the book."
   task :pages do
-    File.open("pages.txt", "r").each_line do |line|
+    File.open("_dev/pages.txt", "r").each_line do |line|
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
