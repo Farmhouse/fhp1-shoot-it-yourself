@@ -1,4 +1,5 @@
 require "fileutils"
+require "pp"
 
 # move to gem, or at least into /lib
 def sluggify(text, separator="-")
@@ -46,6 +47,6 @@ namespace :book do
   task :vars do
     require 'yaml'
     meta = YAML.load_file('meta.yml')
-    require "pp"; pp meta
+    pp meta
   end
 end
