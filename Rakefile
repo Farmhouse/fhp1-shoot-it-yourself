@@ -41,8 +41,8 @@ namespace :book do
 
     content = content.join("\n") + "\n"
 
-    FileUtils::mkdir_p "_includes"
-    File.open("_includes/table-of-contents.md", 'w+') { |f| f.write(content) }
+    FileUtils::mkdir_p "pages"
+    File.open("pages/index.md", 'w+') { |f| f.write(content) }
   end
 
   desc "Creates the pages for the book."
@@ -62,8 +62,8 @@ title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
 ![#{page_title}](#{meta("asset_path")}#{page_slug}-1.jpg)
 )
 
-      FileUtils::mkdir_p "#{page_slug}"
-      File.open("#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
+      FileUtils::mkdir_p "pages/#{page_slug}"
+      File.open("pages/#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
     end
   end
 
