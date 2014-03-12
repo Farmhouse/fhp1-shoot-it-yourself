@@ -56,8 +56,8 @@ namespace :book do
 ![#{page_title}](#{meta("asset_path")}#{page_slug}-1.jpg)
 )
 
-      FileUtils::mkdir_p "pages/#{page_slug}"
-      File.open("pages/#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
+      FileUtils::mkdir_p "#{page_slug}"
+      File.open("#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
     end
   end
 
