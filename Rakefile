@@ -8,7 +8,7 @@ end
 
 def meta(key=nil)
   require 'yaml'
-  meta = YAML.load_file('meta.yml')
+  meta = YAML.load_file('_config.yml')
 
   if key.nil?
     meta
