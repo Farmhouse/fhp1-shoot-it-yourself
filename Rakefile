@@ -7,13 +7,13 @@ def sluggify(text, separator="-")
   text.downcase.gsub(/_|\s|\W/, separator).gsub(/-{2,}/, separator).gsub(/(-)+$/, "")
 end
 
-def meta(key=nil)
-  meta = YAML.load_file('_config.yml')
+def config(key=nil)
+  config = YAML.load_file('_config.yml')
 
   if key.nil?
-    meta
+    config
   else
-    meta[key]
+    config[key]
   end
 end
 
@@ -62,7 +62,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 
       page_content = %Q(---
 layout: default
-title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
+title: #{page_title} : #{config("book_title")}, #{config("book_author")}
 ---
 
 # #{page_title}
@@ -70,7 +70,7 @@ title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
 )
 
       photos.times do |index|
-        page_content << "![#{page_title}](#{meta("asset_path")}#{page_slug}-#{index + 1}.jpg)\n"
+        page_content << "![#{page_title}](#{config("asset_path")}#{page_slug}-#{index + 1}.jpg)\n"
       end
 
       FileUtils::mkdir_p "pages/#{page_slug}"
@@ -79,11 +79,11 @@ title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
   end
 
   desc "Prints variables for the book."
-  task :vars do
-    if meta.is_a?(Hash)
-      pp meta
+  task :config do
+    if config.is_a?(Hash)
+      pp config
     else
-      puts meta
+      puts config
     end
   end
 end
