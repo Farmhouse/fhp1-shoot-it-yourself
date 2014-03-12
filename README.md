@@ -1,4 +1,6 @@
-# Shoot It Yourself book by Ignacio Galvez
+# Shoot It Yourself
+
+Photo book by Ignacio Galvez
 
 
 ## Creators
