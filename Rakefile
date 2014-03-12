@@ -6,16 +6,27 @@ def sluggify(text, separator="-")
   text.downcase.gsub(/_|\s|\W/, separator).gsub(/-{2,}/, separator).gsub(/(-)+$/, "")
 end
 
+def meta(key=nil)
+  require 'yaml'
+  meta = YAML.load_file('meta.yml')
+
+  if key.nil?
+    meta
+  else
+    meta[key]
+  end
+end
 
 
-desc "Default task. Run with `rake`"
+
+desc "Default task. Run with `rake`."
 task default: ["book"]
 
-desc "Builds the whole book"
+desc "Builds the whole book."
 task book: ["book:table_of_contents", "book:pages", "book:vars"]
 
 namespace :book do
-  desc "Creates the table of contents for the book"
+  desc "Creates the table of contents for the book."
   task :table_of_contents do
 
     content     = []
@@ -37,14 +48,16 @@ namespace :book do
     File.open("book/0-table-of-contents.md", 'w+') { |f| f.write(content) }
   end
 
-  desc "Creates the pages for the book"
+  desc "Creates the pages for the book."
   task :pages do
   end
 
-  desc "Prints variables for the book"
+  desc "Prints variables for the book."
   task :vars do
-    require 'yaml'
-    meta = YAML.load_file('meta.yml')
-    pp meta
+    if meta.is_a?(Hash)
+      pp meta
+    else
+      puts meta
+    end
   end
 end
