@@ -23,7 +23,7 @@ desc "Default task. Run with `rake`."
 task default: ["book"]
 
 desc "Builds the whole book."
-task book: ["book:table_of_contents", "book:pages", "book:vars"]
+task book: ["book:table_of_contents", "book:pages"]
 
 namespace :book do
   desc "Creates the table of contents for the book."
@@ -50,6 +50,21 @@ namespace :book do
 
   desc "Creates the pages for the book."
   task :pages do
+    page_number = 1
+
+    File.open("pages.txt", "r").each_line do |line|
+      page_title = line.chomp
+      page_slug  = sluggify(page_title)
+
+      page_content = %Q(# #{page_title}
+
+![#{page_title}](#{meta("asset_path")}#{page_slug}-1.jpg)
+)
+
+      FileUtils::mkdir_p "book"
+      File.open("book/#{page_number}-#{page_slug}.md", 'w+') { |f| f.write(page_content) }
+      page_number += 1
+    end
   end
 
   desc "Prints variables for the book."
