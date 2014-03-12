@@ -1,7 +1,10 @@
+require "fileutils"
+
 # move to gem, or at least into /lib
 def sluggify(text, separator="-")
   text.downcase.gsub(/_|\s|\W/, separator).gsub(/-{2,}/, separator).gsub(/(-)+$/, "")
 end
+
 
 
 desc "Default task. Run with `rake`"
@@ -14,17 +17,23 @@ namespace :book do
   desc "Creates the table of contents for the book"
   task :table_of_contents do
 
+    content     = []
+    page_number = 1
+
+    content << "# Table of Contents\n"
+
     File.open("pages.txt", "r").each_line do |line|
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
-      puts page_title
-      puts page_slug
-      puts
+      content << "- [#{page_title}](#{page_number}-#{page_slug})"
+      page_number += 1
     end
 
-    # puts "book:table_of_contents - creates the table of contents for the book"
-    # File.open(local_filename, 'w') { |f| f.write(doc) }
+    content = content.join("\n") + "\n"
+
+    FileUtils::mkdir_p "book"
+    File.open("book/table-of-contents.md", 'w+') { |f| f.write(content) }
   end
 
   desc "Creates the pages for the book"
