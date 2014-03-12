@@ -53,7 +53,7 @@ namespace :book do
   end
 
   desc "Prints variables for the book."
-  task :config do
+  task :config => '_config.yml' do
     if config.is_a?(Hash)
       pp config
     else
@@ -105,7 +105,7 @@ file '.depends.rf' => %w[Rakefile _data/pages.yml] do |t|
       directories["pages/#{page_slug}"] = true
 
       io.write <<-TASK
-file #{page_path.dump} => %w[pages/#{page_slug} _data/pages.yml] do
+file #{page_path.dump} => %w[pages/#{page_slug} _data/pages.yml _config.yml] do
   create_page t.name, #{page_title.dump}, #{photos}
 end
 
