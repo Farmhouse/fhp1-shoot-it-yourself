@@ -1,5 +1,6 @@
 require "fileutils"
 require "pp"
+require 'yaml'
 
 # move to gem, or at least into /lib
 def sluggify(text, separator="-")
@@ -7,7 +8,6 @@ def sluggify(text, separator="-")
 end
 
 def meta(key=nil)
-  require 'yaml'
   meta = YAML.load_file('_config.yml')
 
   if key.nil?
@@ -36,8 +36,10 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 ---"
     content << "# Table of Contents\n"
 
-    File.open("_dev/pages.txt", "r").each_line do |line|
-      page_title = line.chomp
+    pages = YAML.load_file('_data/pages.yml')
+
+    pages.each do |page|
+      page_title = page["name"]
       page_slug  = sluggify(page_title)
 
       content << "- [#{page_title}](/pages/#{page_slug})"
@@ -51,9 +53,12 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 
   desc "Creates the pages for the book."
   task :pages do
-    File.open("_dev/pages.txt", "r").each_line do |line|
-      page_title = line.chomp
+    pages = YAML.load_file('_data/pages.yml')
+
+    pages.each do |page|
+      page_title = page["name"]
       page_slug  = sluggify(page_title)
+      photos     = page["photos"]
 
       page_content = %Q(---
 layout: default
@@ -62,8 +67,11 @@ title: #{page_title} : #{meta("book_title")}, #{meta("book_author")}
 
 # #{page_title}
 
-![#{page_title}](#{meta("asset_path")}#{page_slug}-1.jpg)
 )
+
+      photos.times do |index|
+        page_content << "![#{page_title}](#{meta("asset_path")}#{page_slug}-#{index + 1}.jpg)\n"
+      end
 
       FileUtils::mkdir_p "pages/#{page_slug}"
       File.open("pages/#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
