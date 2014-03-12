@@ -17,7 +17,22 @@ def config(key=nil)
   end
 end
 
+def create_page path, slug, title, photos
+  content = %Q(---
+layout: default
+title: #{title} : #{config("book_title")}, #{config("book_author")}
+---
 
+# #{title}
+
+)
+
+  photos.times do |index|
+    content << "![#{title}](#{config("asset_path")}#{slug}-#{index + 1}.jpg)\n"
+  end
+
+  File.write path, content
+end
 
 desc "Default task. Run with `rake`."
 task default: ["book"]
@@ -34,25 +49,6 @@ namespace :book do
     pages = YAML.load_file('_data/pages.yml')
 
     pages.each do |page|
-      page_title = page["name"]
-      page_slug  = sluggify(page_title)
-      photos     = page["photos"]
-
-      page_content = %Q(---
-layout: default
-title: #{page_title} : #{config("book_title")}, #{config("book_author")}
----
-
-# #{page_title}
-
-)
-
-      photos.times do |index|
-        page_content << "![#{page_title}](#{config("asset_path")}#{page_slug}-#{index + 1}.jpg)\n"
-      end
-
-      FileUtils::mkdir_p "pages/#{page_slug}"
-      File.open("pages/#{page_slug}/index.md", 'w+') { |f| f.write(page_content) }
     end
   end
 
@@ -89,4 +85,46 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
   FileUtils::mkdir_p "pages"
   File.write("pages/index.md", content)
 end
+
+file '.depends.rf' => %w[Rakefile _data/pages.yml] do |t|
+  pages = YAML.load_file('_data/pages.yml')
+
+  open t.name, 'w' do |io|
+    paths       = []
+    directories = {}
+
+    pages.each do |page|
+      page_title = page["name"]
+      photos     = page["photos"]
+
+      page_slug  = sluggify(page_title)
+      page_path  = "pages/#{page_slug}/index.md"
+
+      paths << page_path
+      directories["pages/#{page_slug}"] = true
+
+      io.write <<-TASK
+file #{page_path.dump} => %w[pages/#{page_slug} _data/pages.yml] do
+  create_page t.name, #{page_title.dump}, #{photos}
+end
+
+      TASK
+    end
+
+    directories.keys.each do |directory|
+      io.write <<-DIRECTORIES
+directory #{directory.dump}
+      DIRECTORIES
+    end
+
+    io.write <<-WIRING
+
+namespace :book do
+  task :pages => %w[#{paths.join ' ' }]
+end
+    WIRING
+  end
+end
+
+import '.depends.rf'
 
