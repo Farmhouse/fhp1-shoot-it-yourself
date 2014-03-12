@@ -46,7 +46,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
   content = content.join("\n") + "\n"
 
   FileUtils::mkdir_p "pages"
-  File.open("pages/index.md", 'w+') { |f| f.write(content) }
+  File.write("pages/index.md", content)
 end
 
 namespace :book do
