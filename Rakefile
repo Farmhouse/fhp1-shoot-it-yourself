@@ -105,8 +105,8 @@ file '.depends.rf' => %w[Rakefile _data/pages.yml] do |t|
       directories["pages/#{page_slug}"] = true
 
       io.write <<-TASK
-file #{page_path.dump} => %w[pages/#{page_slug} _data/pages.yml _config.yml] do
-  create_page t.name, #{page_title.dump}, #{photos}
+file #{page_path.dump} => %w[pages/#{page_slug} _data/pages.yml _config.yml] do |t|
+  create_page t.name, #{page_slug.dump}, #{page_title.dump}, #{photos}
 end
 
       TASK
