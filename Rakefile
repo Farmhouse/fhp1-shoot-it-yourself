@@ -34,13 +34,11 @@ namespace :book do
     content = content.join("\n") + "\n"
 
     FileUtils::mkdir_p "book"
-    File.open("book/table-of-contents.md", 'w+') { |f| f.write(content) }
+    File.open("book/0-table-of-contents.md", 'w+') { |f| f.write(content) }
   end
 
   desc "Creates the pages for the book"
   task :pages do
-    puts "book:pages - creates the pages for the book"
-    # File.open(local_filename, 'w') { |f| f.write(doc) }
   end
 
   desc "Prints variables for the book"
