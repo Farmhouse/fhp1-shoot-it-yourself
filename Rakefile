@@ -30,13 +30,17 @@ namespace :book do
   task :table_of_contents do
     content = []
 
+    content << "---
+layout: default
+title: Table of Contents : Shoot It Yourself, Ignacio Galvez
+---"
     content << "# Table of Contents\n"
 
     File.open("_dev/pages.txt", "r").each_line do |line|
       page_title = line.chomp
       page_slug  = sluggify(page_title)
 
-      content << "- [#{page_title}](/#{page_slug})"
+      content << "- [#{page_title}](/pages/#{page_slug})"
     end
 
     content = content.join("\n") + "\n"
