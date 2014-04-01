@@ -4,6 +4,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 ---
 # Table of Contents
 
+- [AFI](/pages/afi)
 - [Anathema](/pages/anathema)
 - [Anneke](/pages/anneke)
 - [Anthrax](/pages/anthrax)
@@ -34,6 +35,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 - [Flaming Lips](/pages/flaming-lips)
 - [Frnz Ferdinand](/pages/frnz-ferdinand)
 - [Garbage](/pages/garbage)
+- [Gorilla Biscuits](/pages/gorilla-biscuits)
 - [H2O](/pages/h2o)
 - [Hatebreed](/pages/hatebreed)
 - [Helmet](/pages/helmet)
@@ -41,6 +43,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 - [Incubus](/pages/incubus)
 - [Janes Addiction](/pages/janes-addiction)
 - [Jeru](/pages/jeru)
+- [Judge](/pages/judge)
 - [Kaiser Chiefs](/pages/kaiser-chiefs)
 - [Kanye](/pages/kanye)
 - [Korn](/pages/korn)
@@ -70,7 +73,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 - [Pixies](/pages/pixies)
 - [Planet Hemp](/pages/planet-hemp)
 - [P.O.D.](/pages/p-o-d)
-- [Possesed](/pages/possesed)
+- [Possessed](/pages/possessed)
 - [Primal Scream](/pages/primal-scream)
 - [Primus](/pages/primus)
 - [Prodigy](/pages/prodigy)
@@ -87,6 +90,7 @@ title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 - [Sonic Youth](/pages/sonic-youth)
 - [Steve Aoki](/pages/steve-aoki)
 - [Stone Sour](/pages/stone-sour)
+- [Strife](/pages/strife)
 - [Suicidal Tendencies](/pages/suicidal-tendencies)
 - [Suicide Silence](/pages/suicide-silence)
 - [Terror](/pages/terror)

@@ -1,10 +1,13 @@
+- name: AFI
+  photos: 1
+
+- name: Anathema
+  photos: 1
+
 - name: Anneke
   photos: 1
 
 - name: Anthrax
-  photos: 1
-
-- name: Anathema
   photos: 1
 
 - name: As I lay Dying
@@ -14,7 +17,7 @@
   photos: 2
 
 - name: Bad Religion
-  photos: 3
+  photos: 4
 
 - name: Bane
   photos: 2
@@ -32,7 +35,7 @@
   photos: 2
 
 - name: Brujeria
-  photos: 2
+  photos: 3
 
 - name: Bunkers Crowd
   photos: 1
@@ -88,8 +91,11 @@
 - name: Garbage
   photos: 2
 
+- name: Gorilla Biscuits
+  photos: 2
+
 - name: H2O
-  photos: 1
+  photos: 2
 
 - name: Hatebreed
   photos: 1
@@ -101,13 +107,16 @@
   photos: 4
 
 - name: Incubus
-  photos: 1
+  photos: 3
 
 - name: Janes Addiction
   photos: 1
 
 - name: Jeru
   photos: 1
+
+- name: Judge
+  photos: 2
 
 - name: Kaiser Chiefs
   photos: 1
@@ -245,6 +254,9 @@
   photos: 1
 
 - name: Stone Sour
+  photos: 1
+
+- name: Strife
   photos: 1
 
 - name: Suicidal Tendencies
