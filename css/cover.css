@@ -110,6 +110,7 @@ body {
 }
 
 .book-logo {
+  margin-top: 50px;
   max-height: 25%;
   max-width:  90%;
 }
