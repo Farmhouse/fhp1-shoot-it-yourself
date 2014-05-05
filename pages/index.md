@@ -11,6 +11,7 @@ title: Table of Contents - Shoot It Yourself, Ignacio Galvez
     please
     <strong><a href="{{ site.purchase_print_url }}">BUY THE BOOK</a></strong> or
     <strong><a href="{{ site.purchase_ebook_url }}">BUY THE E-BOOK</a></strong>.
+    Thanks for viewing the book.
   </p>
 </div>
 
