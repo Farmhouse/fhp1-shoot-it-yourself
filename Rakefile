@@ -71,7 +71,7 @@ file 'pages/index.md' => %w[pages _data/pages.yml] do
 layout: default
 title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---"
-  content << "# Table of Contents\n"
+  content << "{% include table_of_contents_message.html %}\n"
 
   pages = YAML.load_file('_data/pages.yml')
 
