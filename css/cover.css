@@ -1,7 +1,3 @@
-/*
- * Globals
- */
-
 /* Links */
 a,
 a:focus,
@@ -20,9 +16,7 @@ a:hover {
 }
 
 
-/*
- * Base structure
- */
+/* Base structure */
 
 html,
 body {
@@ -62,9 +56,7 @@ body {
 }
 
 
-/*
- * Header
- */
+/* Header */
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -107,9 +99,7 @@ body {
 }
 
 
-/*
- * Cover
- */
+/* Cover */
 
 .cover {
   padding: 0 20px;
@@ -119,10 +109,12 @@ body {
   font-weight: bold;
 }
 
+.book-logo {
+  max-width: 90%;
+}
 
-/*
- * Footer
- */
+
+/* Footer */
 
 .mastfoot {
   color: #999; /* IE8 proofing */
@@ -130,9 +122,7 @@ body {
 }
 
 
-/*
- * Affix and center
- */
+/* Affix and center */
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
