@@ -113,6 +113,14 @@ body {
   max-width: 90%;
 }
 
+.buy-buttons {
+  margin: 1em auto;
+}
+
+.buy-buttons a {
+  margin: .5em;
+}
+
 
 /* Footer */
 
