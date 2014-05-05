@@ -102,6 +102,4 @@ title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 1. [Wu Tang Clan](/pages/wu-tang-clan)
 1. [Zu](/pages/zu)
 
-{% include copyright_isbn.html %}
-
 {% include footer.html %}
