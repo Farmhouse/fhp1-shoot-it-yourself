@@ -5,7 +5,6 @@ title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 
 {% include table_of_contents_message.html %}
 
-
 1. [AFI](/pages/afi)
 1. [Anathema](/pages/anathema)
 1. [Anneke](/pages/anneke)
@@ -102,3 +101,5 @@ title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 1. [Walls of Jericho](/pages/walls-of-jericho)
 1. [Wu Tang Clan](/pages/wu-tang-clan)
 1. [Zu](/pages/zu)
+
+{% include footer.html %}

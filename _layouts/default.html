@@ -24,66 +24,16 @@
   <![endif]-->
 
   <style>
-  body {
-    padding-top: 50px;
-  }
-  .starter-template {
-    padding: 40px 15px;
-    text-align: center;
-  }
   </style>
 </head>
 
 <body>
-  <!--
-    [if lt IE 7]>
-      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]
-  -->
+  {% include nav.html %}
 
-  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">{{ site.book_title }}</a>
-      </div>
-      <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav">
-          <li><a href="/about">About {{ site.book_author }}</a></li>
-          <li><a href="/pages">Pages</a></li>
-          <li><a href="mailto:barn+fhp1@farmhouse.co">Contact</a></li>
-        </ul>
-      </div><!--/.nav-collapse -->
-    </div>
-  </div>
-  
   <div class="container">
     {{ content }}
   </div><!-- /.container -->
 
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/vendor/jquery.min.js"><\/script>')</script>
-
-  <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="/js/bootstrap.min.js"></script>
-
-  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-  <!--
-  <script>
-    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-    e.src='//www.google-analytics.com/analytics.js';
-    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-    ga('create','UA-XXXXX-X');ga('send','pageview');
-  </script>
-  -->
-
+  {% include footer.html %}
 </body>
 </html>
