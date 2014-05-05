@@ -20,7 +20,7 @@ end
 def create_page(path, slug, title, photos)
   content = %Q(---
 layout: default
-title: #{title} : #{config("book_title")}, #{config("book_author")}
+title: #{title} - #{config("book_title")}, #{config("book_author")}
 ---
 
 # #{title}
