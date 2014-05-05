@@ -1,6 +1,10 @@
-markdown:    kramdown
-fhp_id:      1
-book_title:  "Shoot It Yourself"
-book_slug:   "shoot-it-yourself"
-book_author: "Ignacio Galvez"
-asset_path:  "http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/"
+book_asset_path:     "http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/"
+book_author:         "Ignacio Galvez"
+book_isbn:           "978-0-9960982-2-9"
+book_published_year: 2014
+book_slug:           "shoot-it-yourself"
+book_title:          "Shoot It Yourself"
+fhp_id:              1
+markdown:            kramdown
+purchase_ebook_url:  "http://shop.farmhouse.co/collections/frontpage/products/shoot-it-yourself-paperback"
+purchase_print_url:  "http://shop.farmhouse.co/collections/frontpage/products/shoot-it-yourself-paperback"
