@@ -10,3 +10,5 @@ fhp_id:              1
 markdown:            kramdown
 purchase_ebook_url:  "http://shop.farmhouse.co/collections/frontpage/products/shoot-it-yourself-paperback"
 purchase_print_url:  "http://shop.farmhouse.co/collections/frontpage/products/shoot-it-yourself-paperback"
+book_publisher_name: "Farmhouse Publishing"
+book_publisher_url:  "http://farmhouse.co/publishing/1"

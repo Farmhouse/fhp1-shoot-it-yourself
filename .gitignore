@@ -13,6 +13,9 @@ test/tmp
 test/version_tmp
 tmp
 
+# Jekyll build artifacts
+_site
+
 # YARD artifacts
 .yardoc
 _yardoc

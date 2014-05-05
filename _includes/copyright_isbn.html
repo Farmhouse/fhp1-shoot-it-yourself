@@ -1,2 +1,9 @@
-<p>Copyright &copy; 2014 {{ site.book_author }}</p>
-<p>ISBN: {{ site.book_isbn }}</p>
+<p class="book-publisher">
+  Published by
+  <a href="{{ site.book_publisher_url }}">
+    {{ site.book_publisher_name }}
+  </a>
+</p>
+
+<p class="book-copyright">Copyright &copy; 2014 {{ site.book_author }}</p>
+<p class="book-isbn">ISBN: {{ site.book_isbn }}</p>
