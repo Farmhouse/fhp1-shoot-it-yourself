@@ -5,7 +5,13 @@ title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 
 <div class="starter-template">
   <h1>Table of Contents</h1>
-  <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+  <p class="lead">
+    This is the free website version of the <strong>{{ site.book_title }}</strong> book.
+    If you like what you see and want to support <strong>{{ site.book_author }}</strong>,
+    please
+    <strong><a href="{{ site.purchase_print_url }}">BUY THE BOOK</a></strong> or
+    <strong><a href="{{ site.purchase_ebook_url }}">BUY THE E-BOOK</a></strong>.
+  </p>
 </div>
 
 
