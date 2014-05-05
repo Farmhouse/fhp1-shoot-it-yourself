@@ -19,7 +19,7 @@ end
 
 def create_page(path, slug, title, photos)
   content = %Q(---
-layout: default
+layout: page
 title: #{title} : #{config("book_title")}, #{config("book_author")}
 ---
 
@@ -68,7 +68,7 @@ file 'pages/index.md' => %w[pages _data/pages.yml] do
   content = []
 
   content << "---
-layout: default
+layout: page
 title: Table of Contents : Shoot It Yourself, Ignacio Galvez
 ---"
   content << "# Table of Contents\n"

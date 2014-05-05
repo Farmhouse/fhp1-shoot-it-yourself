@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: NOFX : Shoot It Yourself, Ignacio Galvez
 ---
 

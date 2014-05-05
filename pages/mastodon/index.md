@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Mastodon : Shoot It Yourself, Ignacio Galvez
 ---
 

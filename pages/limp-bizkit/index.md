@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Limp Bizkit : Shoot It Yourself, Ignacio Galvez
 ---
 

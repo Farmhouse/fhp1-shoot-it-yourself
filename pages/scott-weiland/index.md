@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Scott Weiland : Shoot It Yourself, Ignacio Galvez
 ---
 

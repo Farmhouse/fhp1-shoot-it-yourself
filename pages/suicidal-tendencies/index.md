@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Suicidal Tendencies : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Mondo Cane : Shoot It Yourself, Ignacio Galvez
 ---
 

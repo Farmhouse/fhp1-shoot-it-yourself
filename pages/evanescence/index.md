@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Evanescence : Shoot It Yourself, Ignacio Galvez
 ---
 

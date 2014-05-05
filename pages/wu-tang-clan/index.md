@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Wu Tang Clan : Shoot It Yourself, Ignacio Galvez
 ---
 

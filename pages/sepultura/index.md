@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Sepultura : Shoot It Yourself, Ignacio Galvez
 ---
 

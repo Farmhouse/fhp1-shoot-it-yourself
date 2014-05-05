@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: As I lay Dying : Shoot It Yourself, Ignacio Galvez
 ---
 

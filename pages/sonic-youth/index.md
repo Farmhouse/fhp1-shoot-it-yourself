@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Sonic Youth : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Nas : Shoot It Yourself, Ignacio Galvez
 ---
 

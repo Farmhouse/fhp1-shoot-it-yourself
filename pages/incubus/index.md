@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Incubus : Shoot It Yourself, Ignacio Galvez
 ---
 

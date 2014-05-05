@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Anathema : Shoot It Yourself, Ignacio Galvez
 ---
 

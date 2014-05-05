@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Terror : Shoot It Yourself, Ignacio Galvez
 ---
 

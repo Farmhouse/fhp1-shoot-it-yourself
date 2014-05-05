@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: No Use For A Name : Shoot It Yourself, Ignacio Galvez
 ---
 

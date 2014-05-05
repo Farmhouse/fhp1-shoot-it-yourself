@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Helmet : Shoot It Yourself, Ignacio Galvez
 ---
 

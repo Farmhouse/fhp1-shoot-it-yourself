@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Rage Against the Machine : Shoot It Yourself, Ignacio Galvez
 ---
 

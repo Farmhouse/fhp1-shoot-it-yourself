@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: The Hives : Shoot It Yourself, Ignacio Galvez
 ---
 

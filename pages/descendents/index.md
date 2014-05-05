@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Descendents : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Less Than Jake : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Mixhell : Shoot It Yourself, Ignacio Galvez
 ---
 

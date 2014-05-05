@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Public Enemy : Shoot It Yourself, Ignacio Galvez
 ---
 

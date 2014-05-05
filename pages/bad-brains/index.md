@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Bad Brains : Shoot It Yourself, Ignacio Galvez
 ---
 

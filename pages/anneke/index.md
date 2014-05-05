@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Anneke : Shoot It Yourself, Ignacio Galvez
 ---
 

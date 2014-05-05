@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Anthrax : Shoot It Yourself, Ignacio Galvez
 ---
 

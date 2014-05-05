@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Madball : Shoot It Yourself, Ignacio Galvez
 ---
 

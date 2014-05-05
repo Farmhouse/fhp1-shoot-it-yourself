@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Primal Scream : Shoot It Yourself, Ignacio Galvez
 ---
 

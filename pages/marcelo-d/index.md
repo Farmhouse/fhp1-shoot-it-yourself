@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Marcelo D : Shoot It Yourself, Ignacio Galvez
 ---
 

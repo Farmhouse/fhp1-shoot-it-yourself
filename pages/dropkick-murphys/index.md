@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Dropkick Murphys : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Sick of it All : Shoot It Yourself, Ignacio Galvez
 ---
 

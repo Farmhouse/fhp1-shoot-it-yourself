@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: AFI : Shoot It Yourself, Ignacio Galvez
 ---
 

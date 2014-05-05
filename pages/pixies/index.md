@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Pixies : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Millencolin : Shoot It Yourself, Ignacio Galvez
 ---
 

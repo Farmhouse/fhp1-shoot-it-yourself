@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Bane : Shoot It Yourself, Ignacio Galvez
 ---
 

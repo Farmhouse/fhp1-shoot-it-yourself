@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Dilated Peoples : Shoot It Yourself, Ignacio Galvez
 ---
 

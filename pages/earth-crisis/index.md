@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Earth Crisis : Shoot It Yourself, Ignacio Galvez
 ---
 

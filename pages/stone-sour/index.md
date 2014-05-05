@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Stone Sour : Shoot It Yourself, Ignacio Galvez
 ---
 

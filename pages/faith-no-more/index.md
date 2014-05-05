@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Faith No More : Shoot It Yourself, Ignacio Galvez
 ---
 

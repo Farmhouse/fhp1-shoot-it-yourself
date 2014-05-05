@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Suicide Silence : Shoot It Yourself, Ignacio Galvez
 ---
 

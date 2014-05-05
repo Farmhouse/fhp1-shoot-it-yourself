@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Perrosky : Shoot It Yourself, Ignacio Galvez
 ---
 

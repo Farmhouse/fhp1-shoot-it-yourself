@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Tomahawk : Shoot It Yourself, Ignacio Galvez
 ---
 

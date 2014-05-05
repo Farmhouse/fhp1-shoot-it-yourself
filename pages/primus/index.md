@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Primus : Shoot It Yourself, Ignacio Galvez
 ---
 

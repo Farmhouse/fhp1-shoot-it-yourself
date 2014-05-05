@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Possessed : Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Onyx : Shoot It Yourself, Ignacio Galvez
 ---
 

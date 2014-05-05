@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Snow Patrol : Shoot It Yourself, Ignacio Galvez
 ---
 

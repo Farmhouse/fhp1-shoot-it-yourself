@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Marilyn Manson : Shoot It Yourself, Ignacio Galvez
 ---
 
