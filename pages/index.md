@@ -3,7 +3,11 @@ layout: default
 title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---
 
-# Table of Contents
+<div class="starter-template">
+  <h1>Table of Contents</h1>
+  <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+</div>
+
 
 1. [AFI](/pages/afi)
 1. [Anathema](/pages/anathema)
