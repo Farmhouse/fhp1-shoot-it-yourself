@@ -160,9 +160,3 @@ body {
     width: 700px;
   }
 }
-
-@media (min-width: 500px) {
-  .buy-buttons a {
-    margin: .5em;
-  }
-}
