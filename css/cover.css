@@ -119,6 +119,10 @@ body {
   text-align: center;
 }
 
+.buy-buttons a {
+  margin-bottom: .5em;
+}
+
 
 /* Footer */
 
