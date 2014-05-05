@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Walls of Jericho : Shoot It Yourself, Ignacio Galvez
+title: Walls of Jericho - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Walls of Jericho

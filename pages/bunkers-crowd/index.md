@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bunkers Crowd : Shoot It Yourself, Ignacio Galvez
+title: Bunkers Crowd - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Bunkers Crowd

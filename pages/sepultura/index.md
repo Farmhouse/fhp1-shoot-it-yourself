@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sepultura : Shoot It Yourself, Ignacio Galvez
+title: Sepultura - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Sepultura

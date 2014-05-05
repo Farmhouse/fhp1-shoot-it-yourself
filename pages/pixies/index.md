@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pixies : Shoot It Yourself, Ignacio Galvez
+title: Pixies - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Pixies

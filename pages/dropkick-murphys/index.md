@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dropkick Murphys : Shoot It Yourself, Ignacio Galvez
+title: Dropkick Murphys - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Dropkick Murphys

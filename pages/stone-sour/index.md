@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stone Sour : Shoot It Yourself, Ignacio Galvez
+title: Stone Sour - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Stone Sour

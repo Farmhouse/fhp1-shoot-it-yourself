@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Red hot Chili Peppers : Shoot It Yourself, Ignacio Galvez
+title: Red hot Chili Peppers - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Red hot Chili Peppers

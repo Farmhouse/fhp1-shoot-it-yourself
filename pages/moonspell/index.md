@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moonspell : Shoot It Yourself, Ignacio Galvez
+title: Moonspell - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Moonspell

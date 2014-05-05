@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Perrosky : Shoot It Yourself, Ignacio Galvez
+title: Perrosky - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Perrosky

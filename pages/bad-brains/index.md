@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bad Brains : Shoot It Yourself, Ignacio Galvez
+title: Bad Brains - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Bad Brains

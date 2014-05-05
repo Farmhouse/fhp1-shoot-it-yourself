@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evanescence : Shoot It Yourself, Ignacio Galvez
+title: Evanescence - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Evanescence

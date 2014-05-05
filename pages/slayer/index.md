@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slayer : Shoot It Yourself, Ignacio Galvez
+title: Slayer - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Slayer

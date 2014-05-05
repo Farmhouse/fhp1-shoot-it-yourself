@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terror : Shoot It Yourself, Ignacio Galvez
+title: Terror - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Terror

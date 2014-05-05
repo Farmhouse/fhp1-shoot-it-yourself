@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pearl Jam : Shoot It Yourself, Ignacio Galvez
+title: Pearl Jam - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Pearl Jam

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dinosaur Jr : Shoot It Yourself, Ignacio Galvez
+title: Dinosaur Jr - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Dinosaur Jr

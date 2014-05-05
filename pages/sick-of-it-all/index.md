@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sick of it All : Shoot It Yourself, Ignacio Galvez
+title: Sick of it All - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Sick of it All

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dilated Peoples : Shoot It Yourself, Ignacio Galvez
+title: Dilated Peoples - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Dilated Peoples

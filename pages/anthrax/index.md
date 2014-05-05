@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anthrax : Shoot It Yourself, Ignacio Galvez
+title: Anthrax - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Anthrax

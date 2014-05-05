@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disturbed : Shoot It Yourself, Ignacio Galvez
+title: Disturbed - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Disturbed

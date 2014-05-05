@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mastodon : Shoot It Yourself, Ignacio Galvez
+title: Mastodon - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Mastodon

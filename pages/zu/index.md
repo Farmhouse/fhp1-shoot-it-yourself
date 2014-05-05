@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zu : Shoot It Yourself, Ignacio Galvez
+title: Zu - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Zu

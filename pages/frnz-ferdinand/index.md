@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frnz Ferdinand : Shoot It Yourself, Ignacio Galvez
+title: Frnz Ferdinand - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Frnz Ferdinand

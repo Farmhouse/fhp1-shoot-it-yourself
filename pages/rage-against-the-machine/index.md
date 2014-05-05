@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rage Against the Machine : Shoot It Yourself, Ignacio Galvez
+title: Rage Against the Machine - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Rage Against the Machine

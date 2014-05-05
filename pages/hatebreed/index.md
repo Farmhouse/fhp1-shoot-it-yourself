@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hatebreed : Shoot It Yourself, Ignacio Galvez
+title: Hatebreed - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Hatebreed

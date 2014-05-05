@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parkway Drive : Shoot It Yourself, Ignacio Galvez
+title: Parkway Drive - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Parkway Drive

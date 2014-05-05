@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cannibal Corpse : Shoot It Yourself, Ignacio Galvez
+title: Cannibal Corpse - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Cannibal Corpse

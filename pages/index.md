@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Contents : Shoot It Yourself, Ignacio Galvez
+title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---
 # Table of Contents
 

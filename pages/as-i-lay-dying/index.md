@@ -1,6 +1,6 @@
 ---
 layout: page
-title: As I lay Dying : Shoot It Yourself, Ignacio Galvez
+title: As I lay Dying - Shoot It Yourself, Ignacio Galvez
 ---
 
 # As I lay Dying

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Garbage : Shoot It Yourself, Ignacio Galvez
+title: Garbage - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Garbage

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Korn : Shoot It Yourself, Ignacio Galvez
+title: Korn - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Korn

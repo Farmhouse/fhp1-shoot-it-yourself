@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mondo Cane : Shoot It Yourself, Ignacio Galvez
+title: Mondo Cane - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Mondo Cane

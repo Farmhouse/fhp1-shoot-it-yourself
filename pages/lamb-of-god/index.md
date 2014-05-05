@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lamb of God : Shoot It Yourself, Ignacio Galvez
+title: Lamb of God - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Lamb of God

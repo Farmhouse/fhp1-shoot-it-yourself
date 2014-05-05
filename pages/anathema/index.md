@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anathema : Shoot It Yourself, Ignacio Galvez
+title: Anathema - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Anathema

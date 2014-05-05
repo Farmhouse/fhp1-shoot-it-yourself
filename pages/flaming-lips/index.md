@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flaming Lips : Shoot It Yourself, Ignacio Galvez
+title: Flaming Lips - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Flaming Lips

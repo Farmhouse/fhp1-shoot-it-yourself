@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Enemy : Shoot It Yourself, Ignacio Galvez
+title: Public Enemy - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Public Enemy

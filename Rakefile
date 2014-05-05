@@ -69,7 +69,7 @@ file 'pages/index.md' => %w[pages _data/pages.yml] do
 
   content << "---
 layout: page
-title: Table of Contents : Shoot It Yourself, Ignacio Galvez
+title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---"
   content << "# Table of Contents\n"
 

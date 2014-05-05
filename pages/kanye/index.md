@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kanye : Shoot It Yourself, Ignacio Galvez
+title: Kanye - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Kanye

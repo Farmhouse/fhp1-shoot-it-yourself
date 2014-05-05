@@ -1,6 +1,6 @@
 ---
 layout: page
-title: No Use For A Name : Shoot It Yourself, Ignacio Galvez
+title: No Use For A Name - Shoot It Yourself, Ignacio Galvez
 ---
 
 # No Use For A Name

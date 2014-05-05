@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Cure : Shoot It Yourself, Ignacio Galvez
+title: The Cure - Shoot It Yourself, Ignacio Galvez
 ---
 
 # The Cure

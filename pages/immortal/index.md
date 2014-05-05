@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Immortal : Shoot It Yourself, Ignacio Galvez
+title: Immortal - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Immortal

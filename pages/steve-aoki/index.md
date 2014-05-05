@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Steve Aoki : Shoot It Yourself, Ignacio Galvez
+title: Steve Aoki - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Steve Aoki

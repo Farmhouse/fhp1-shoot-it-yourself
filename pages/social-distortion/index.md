@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Distortion : Shoot It Yourself, Ignacio Galvez
+title: Social Distortion - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Social Distortion

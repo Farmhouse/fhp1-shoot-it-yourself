@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circle Jerks : Shoot It Yourself, Ignacio Galvez
+title: Circle Jerks - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Circle Jerks

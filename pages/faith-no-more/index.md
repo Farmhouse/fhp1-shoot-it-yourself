@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Faith No More : Shoot It Yourself, Ignacio Galvez
+title: Faith No More - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Faith No More

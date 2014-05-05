@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Hives : Shoot It Yourself, Ignacio Galvez
+title: The Hives - Shoot It Yourself, Ignacio Galvez
 ---
 
 # The Hives

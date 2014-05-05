@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Judge : Shoot It Yourself, Ignacio Galvez
+title: Judge - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Judge

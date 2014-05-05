@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Primus : Shoot It Yourself, Ignacio Galvez
+title: Primus - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Primus

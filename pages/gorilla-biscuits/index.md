@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gorilla Biscuits : Shoot It Yourself, Ignacio Galvez
+title: Gorilla Biscuits - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Gorilla Biscuits

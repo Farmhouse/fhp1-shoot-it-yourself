@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prodigy : Shoot It Yourself, Ignacio Galvez
+title: Prodigy - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Prodigy

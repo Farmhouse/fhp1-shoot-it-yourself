@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bad Religion : Shoot It Yourself, Ignacio Galvez
+title: Bad Religion - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Bad Religion

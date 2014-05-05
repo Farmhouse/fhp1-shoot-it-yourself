@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chris Cornell : Shoot It Yourself, Ignacio Galvez
+title: Chris Cornell - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Chris Cornell

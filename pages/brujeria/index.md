@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brujeria : Shoot It Yourself, Ignacio Galvez
+title: Brujeria - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Brujeria

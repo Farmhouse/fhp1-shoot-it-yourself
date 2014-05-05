@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planet Hemp : Shoot It Yourself, Ignacio Galvez
+title: Planet Hemp - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Planet Hemp

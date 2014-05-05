@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Snow Patrol : Shoot It Yourself, Ignacio Galvez
+title: Snow Patrol - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Snow Patrol

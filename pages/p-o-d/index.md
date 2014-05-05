@@ -1,6 +1,6 @@
 ---
 layout: page
-title: P.O.D. : Shoot It Yourself, Ignacio Galvez
+title: P.O.D. - Shoot It Yourself, Ignacio Galvez
 ---
 
 # P.O.D.

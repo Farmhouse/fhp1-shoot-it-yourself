@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Head : Shoot It Yourself, Ignacio Galvez
+title: Machine Head - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Machine Head

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: H2O : Shoot It Yourself, Ignacio Galvez
+title: H2O - Shoot It Yourself, Ignacio Galvez
 ---
 
 # H2O

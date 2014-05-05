@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Madball : Shoot It Yourself, Ignacio Galvez
+title: Madball - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Madball

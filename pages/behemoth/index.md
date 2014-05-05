@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Behemoth : Shoot It Yourself, Ignacio Galvez
+title: Behemoth - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Behemoth

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biohazard : Shoot It Yourself, Ignacio Galvez
+title: Biohazard - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Biohazard

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wu Tang Clan : Shoot It Yourself, Ignacio Galvez
+title: Wu Tang Clan - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Wu Tang Clan

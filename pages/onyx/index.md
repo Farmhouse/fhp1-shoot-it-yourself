@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Onyx : Shoot It Yourself, Ignacio Galvez
+title: Onyx - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Onyx

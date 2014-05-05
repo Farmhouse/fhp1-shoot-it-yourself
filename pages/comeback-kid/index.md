@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comeback Kid : Shoot It Yourself, Ignacio Galvez
+title: Comeback Kid - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Comeback Kid

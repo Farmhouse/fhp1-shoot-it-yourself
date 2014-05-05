@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kaiser Chiefs : Shoot It Yourself, Ignacio Galvez
+title: Kaiser Chiefs - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Kaiser Chiefs

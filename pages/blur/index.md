@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blur : Shoot It Yourself, Ignacio Galvez
+title: Blur - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Blur

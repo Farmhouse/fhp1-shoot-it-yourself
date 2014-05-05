@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suicidal Tendencies : Shoot It Yourself, Ignacio Galvez
+title: Suicidal Tendencies - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Suicidal Tendencies

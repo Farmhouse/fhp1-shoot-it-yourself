@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paramore : Shoot It Yourself, Ignacio Galvez
+title: Paramore - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Paramore

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Millencolin : Shoot It Yourself, Ignacio Galvez
+title: Millencolin - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Millencolin

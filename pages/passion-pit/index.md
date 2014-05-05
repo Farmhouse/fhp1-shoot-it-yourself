@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Passion Pit : Shoot It Yourself, Ignacio Galvez
+title: Passion Pit - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Passion Pit

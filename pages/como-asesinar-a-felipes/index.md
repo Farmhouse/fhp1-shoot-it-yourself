@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Como Asesinar a Felipes : Shoot It Yourself, Ignacio Galvez
+title: Como Asesinar a Felipes - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Como Asesinar a Felipes

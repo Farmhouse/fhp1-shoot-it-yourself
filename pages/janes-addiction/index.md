@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Janes Addiction : Shoot It Yourself, Ignacio Galvez
+title: Janes Addiction - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Janes Addiction

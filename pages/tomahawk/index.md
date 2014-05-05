@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tomahawk : Shoot It Yourself, Ignacio Galvez
+title: Tomahawk - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Tomahawk

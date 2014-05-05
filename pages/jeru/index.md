@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jeru : Shoot It Yourself, Ignacio Galvez
+title: Jeru - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Jeru

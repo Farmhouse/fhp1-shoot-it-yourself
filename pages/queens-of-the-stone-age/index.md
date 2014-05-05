@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Queens Of The Stone Age : Shoot It Yourself, Ignacio Galvez
+title: Queens Of The Stone Age - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Queens Of The Stone Age

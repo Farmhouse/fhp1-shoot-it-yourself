@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Earth Crisis : Shoot It Yourself, Ignacio Galvez
+title: Earth Crisis - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Earth Crisis

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AFI : Shoot It Yourself, Ignacio Galvez
+title: AFI - Shoot It Yourself, Ignacio Galvez
 ---
 
 # AFI

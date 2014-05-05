@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Primal Scream : Shoot It Yourself, Ignacio Galvez
+title: Primal Scream - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Primal Scream

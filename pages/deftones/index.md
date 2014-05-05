@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deftones : Shoot It Yourself, Ignacio Galvez
+title: Deftones - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Deftones

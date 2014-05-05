@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sonic Youth : Shoot It Yourself, Ignacio Galvez
+title: Sonic Youth - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Sonic Youth

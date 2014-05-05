@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Strife : Shoot It Yourself, Ignacio Galvez
+title: Strife - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Strife

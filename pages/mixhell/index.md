@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mixhell : Shoot It Yourself, Ignacio Galvez
+title: Mixhell - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Mixhell

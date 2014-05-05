@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Limp Bizkit : Shoot It Yourself, Ignacio Galvez
+title: Limp Bizkit - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Limp Bizkit

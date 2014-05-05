@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ozzy Osbourne : Shoot It Yourself, Ignacio Galvez
+title: Ozzy Osbourne - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Ozzy Osbourne

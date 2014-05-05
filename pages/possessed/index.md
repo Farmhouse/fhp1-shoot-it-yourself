@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Possessed : Shoot It Yourself, Ignacio Galvez
+title: Possessed - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Possessed

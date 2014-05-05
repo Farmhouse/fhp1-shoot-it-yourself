@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Helmet : Shoot It Yourself, Ignacio Galvez
+title: Helmet - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Helmet

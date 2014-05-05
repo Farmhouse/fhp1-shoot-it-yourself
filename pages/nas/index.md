@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nas : Shoot It Yourself, Ignacio Galvez
+title: Nas - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Nas

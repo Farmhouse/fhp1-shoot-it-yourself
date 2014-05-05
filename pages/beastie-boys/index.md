@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beastie Boys : Shoot It Yourself, Ignacio Galvez
+title: Beastie Boys - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Beastie Boys

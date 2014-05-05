@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anneke : Shoot It Yourself, Ignacio Galvez
+title: Anneke - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Anneke

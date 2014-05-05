@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bane : Shoot It Yourself, Ignacio Galvez
+title: Bane - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Bane

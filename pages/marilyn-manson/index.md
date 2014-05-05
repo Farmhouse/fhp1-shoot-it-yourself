@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marilyn Manson : Shoot It Yourself, Ignacio Galvez
+title: Marilyn Manson - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Marilyn Manson

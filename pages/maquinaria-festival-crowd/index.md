@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maquinaria Festival Crowd : Shoot It Yourself, Ignacio Galvez
+title: Maquinaria Festival Crowd - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Maquinaria Festival Crowd

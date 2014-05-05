@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Descendents : Shoot It Yourself, Ignacio Galvez
+title: Descendents - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Descendents

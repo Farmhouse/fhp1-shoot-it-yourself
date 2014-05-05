@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scott Weiland : Shoot It Yourself, Ignacio Galvez
+title: Scott Weiland - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Scott Weiland

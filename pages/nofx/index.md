@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NOFX : Shoot It Yourself, Ignacio Galvez
+title: NOFX - Shoot It Yourself, Ignacio Galvez
 ---
 
 # NOFX
