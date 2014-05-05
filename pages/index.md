@@ -3,7 +3,7 @@ layout: default
 title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---
 
-{{ include table_of_contents_message.html }}
+{% include table_of_contents_message.html %}
 
 
 1. [AFI](/pages/afi)
