@@ -3,17 +3,7 @@ layout: default
 title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---
 
-<div class="starter-template">
-  <h1>Table of Contents</h1>
-  <p class="lead">
-    This is the free website version of the <strong>{{ site.book_title }}</strong> book.
-    If you like what you see and want to support <strong>{{ site.book_author }}</strong>,
-    please
-    <strong><a href="{{ site.purchase_print_url }}">BUY THE BOOK</a></strong> or
-    <strong><a href="{{ site.purchase_ebook_url }}">BUY THE E-BOOK</a></strong>.
-    Thanks for viewing the book.
-  </p>
-</div>
+{{ include table_of_contents_message.html }}
 
 
 1. [AFI](/pages/afi)
