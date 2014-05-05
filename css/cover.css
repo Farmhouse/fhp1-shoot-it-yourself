@@ -37,8 +37,7 @@ body {
 
   position: relative;
   min-height: 350px;
-  background: url("http://lewisking.net/images/header-image.jpg") no-repeat scroll 0px 100% / cover transparent;
-
+  background: no-repeat scroll 0px 100% / cover transparent;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
