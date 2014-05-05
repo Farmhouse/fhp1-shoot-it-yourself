@@ -6,14 +6,15 @@ title: Shoot It Yourself, Ignacio Galvez
 <div class="site-wrapper">
   <div class="site-wrapper-inner">
     <div class="cover-container">
-      <div class="masthead clearfix">
+      
+      <div class="masthead clearfix hidden-xs">
         <div class="inner">
-          <h3 class="masthead-brand hidden-xs">
+          <h3 class="masthead-brand">
             <a href="/">{{ site.book_title }}</a>
           </h3>
 
           <ul class="nav masthead-nav">
-            <li><a href="/about">About <span class="hidden-xs">{{ site.book_author }}</span></a></li>
+            <li><a href="/about">About{{ site.book_author }}</a></li>
             <li><a href="/pages">Pages</a></li>
             <li><a href="mailto:barn+fhp1@farmhouse.co">Contact</a></li>
           </ul>
@@ -46,6 +47,7 @@ title: Shoot It Yourself, Ignacio Galvez
           <p>ISBN: {{ site.book_isbn }}</p>
         </div>
       </div><!-- mastfoot -->
+
     </div><!-- cover-container -->
   </div><!-- site-wrapper-inner -->
 </div><!-- site-wrapper -->
