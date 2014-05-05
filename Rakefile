@@ -28,7 +28,7 @@ title: #{title} : #{config("book_title")}, #{config("book_author")}
 )
 
   photos.times do |index|
-    content << "![#{title}](#{config("book_asset_path")}#{slug}-#{index + 1}.jpg)\n"
+    content << "![#{title}](#{config("book_image_path")}#{slug}-#{index + 1}.jpg)\n"
   end
 
   File.write path, content
