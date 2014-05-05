@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Social Distortion - Shoot It Yourself, Ignacio Galvez
 ---
 

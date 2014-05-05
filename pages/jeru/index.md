@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Jeru - Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Walls of Jericho - Shoot It Yourself, Ignacio Galvez
 ---
 

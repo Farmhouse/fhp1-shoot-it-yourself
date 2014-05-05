@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Cannibal Corpse - Shoot It Yourself, Ignacio Galvez
 ---
 

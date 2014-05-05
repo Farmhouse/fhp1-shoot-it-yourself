@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Immortal - Shoot It Yourself, Ignacio Galvez
 ---
 

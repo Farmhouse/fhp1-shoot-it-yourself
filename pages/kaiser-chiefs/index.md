@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Kaiser Chiefs - Shoot It Yourself, Ignacio Galvez
 ---
 

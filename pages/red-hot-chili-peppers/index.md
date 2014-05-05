@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Red hot Chili Peppers - Shoot It Yourself, Ignacio Galvez
 ---
 

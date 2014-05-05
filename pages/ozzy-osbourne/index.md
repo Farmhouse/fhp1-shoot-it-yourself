@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ozzy Osbourne - Shoot It Yourself, Ignacio Galvez
 ---
 

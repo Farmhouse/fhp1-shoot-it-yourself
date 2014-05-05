@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Queens Of The Stone Age - Shoot It Yourself, Ignacio Galvez
 ---
 

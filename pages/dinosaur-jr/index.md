@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dinosaur Jr - Shoot It Yourself, Ignacio Galvez
 ---
 

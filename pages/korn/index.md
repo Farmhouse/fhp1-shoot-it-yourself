@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Korn - Shoot It Yourself, Ignacio Galvez
 ---
 

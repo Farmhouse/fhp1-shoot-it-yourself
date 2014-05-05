@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Garbage - Shoot It Yourself, Ignacio Galvez
 ---
 

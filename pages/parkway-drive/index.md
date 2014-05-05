@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Parkway Drive - Shoot It Yourself, Ignacio Galvez
 ---
 

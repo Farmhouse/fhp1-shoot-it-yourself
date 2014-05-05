@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Table of Contents - Shoot It Yourself, Ignacio Galvez
 ---
 # Table of Contents

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blur - Shoot It Yourself, Ignacio Galvez
 ---
 

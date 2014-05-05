@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Steve Aoki - Shoot It Yourself, Ignacio Galvez
 ---
 

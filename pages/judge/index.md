@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Judge - Shoot It Yourself, Ignacio Galvez
 ---
 

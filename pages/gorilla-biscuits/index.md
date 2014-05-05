@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Gorilla Biscuits - Shoot It Yourself, Ignacio Galvez
 ---
 

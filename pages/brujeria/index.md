@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Brujeria - Shoot It Yourself, Ignacio Galvez
 ---
 

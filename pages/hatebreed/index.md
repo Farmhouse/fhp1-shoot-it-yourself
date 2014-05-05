@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hatebreed - Shoot It Yourself, Ignacio Galvez
 ---
 

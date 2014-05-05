@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Deftones - Shoot It Yourself, Ignacio Galvez
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Strife - Shoot It Yourself, Ignacio Galvez
 ---
 
