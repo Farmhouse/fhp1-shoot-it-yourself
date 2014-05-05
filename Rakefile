@@ -69,7 +69,7 @@ file 'pages/index.md' => %w[pages _data/pages.yml] do
 
   content << "---
 layout: default
-title: Table of Contents - Shoot It Yourself, Ignacio Galvez
+title: #{title} - #{config("book_title")}, #{config("book_author")}
 ---"
   content << "{% include table_of_contents_message.html %}\n"
 
@@ -79,7 +79,7 @@ title: Table of Contents - Shoot It Yourself, Ignacio Galvez
     page_title = page["name"]
     page_slug  = sluggify(page_title)
 
-    content << "- [#{page_title}](/pages/#{page_slug})"
+    content << "1. [#{page_title}](/pages/#{page_slug})"
   end
 
   content = content.join("\n") + "\n"
