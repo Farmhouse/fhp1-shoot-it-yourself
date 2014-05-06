@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Marcelo D - Shoot It Yourself, Ignacio Galvez
+title: Marcelo D - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Marcelo D
 
-![Marcelo D](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/marcelo-d-1.jpg)
-![Marcelo D](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/marcelo-d-2.jpg)
+![Marcelo D]({{ site.book_image_path }}marcelo-d-1.jpg)
+![Marcelo D]({{ site.book_image_path }}marcelo-d-2.jpg)

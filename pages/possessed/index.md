@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Possessed - Shoot It Yourself, Ignacio Galvez
+title: Possessed - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Possessed
 
-![Possessed](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/possessed-1.jpg)
+![Possessed]({{ site.book_image_path }}possessed-1.jpg)

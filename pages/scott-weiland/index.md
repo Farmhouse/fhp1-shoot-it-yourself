@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Scott Weiland - Shoot It Yourself, Ignacio Galvez
+title: Scott Weiland - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Scott Weiland
 
-![Scott Weiland](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/scott-weiland-1.jpg)
-![Scott Weiland](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/scott-weiland-2.jpg)
+![Scott Weiland]({{ site.book_image_path }}scott-weiland-1.jpg)
+![Scott Weiland]({{ site.book_image_path }}scott-weiland-2.jpg)

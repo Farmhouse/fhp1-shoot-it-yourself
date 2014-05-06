@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Terror - Shoot It Yourself, Ignacio Galvez
+title: Terror - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Terror
 
-![Terror](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/terror-1.jpg)
+![Terror]({{ site.book_image_path }}terror-1.jpg)

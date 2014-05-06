@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Korn - Shoot It Yourself, Ignacio Galvez
+title: Korn - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Korn
 
-![Korn](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/korn-1.jpg)
-![Korn](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/korn-2.jpg)
+![Korn]({{ site.book_image_path }}korn-1.jpg)
+![Korn]({{ site.book_image_path }}korn-2.jpg)

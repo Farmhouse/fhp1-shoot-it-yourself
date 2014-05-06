@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Bane - Shoot It Yourself, Ignacio Galvez
+title: Bane - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Bane
 
-![Bane](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/bane-1.jpg)
-![Bane](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/bane-2.jpg)
+![Bane]({{ site.book_image_path }}bane-1.jpg)
+![Bane]({{ site.book_image_path }}bane-2.jpg)

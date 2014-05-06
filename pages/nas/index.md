@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Nas - Shoot It Yourself, Ignacio Galvez
+title: Nas - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Nas
 
-![Nas](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/nas-1.jpg)
+![Nas]({{ site.book_image_path }}nas-1.jpg)

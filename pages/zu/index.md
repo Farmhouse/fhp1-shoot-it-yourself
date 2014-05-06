@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Zu - Shoot It Yourself, Ignacio Galvez
+title: Zu - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Zu
 
-![Zu](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/zu-1.jpg)
+![Zu]({{ site.book_image_path }}zu-1.jpg)

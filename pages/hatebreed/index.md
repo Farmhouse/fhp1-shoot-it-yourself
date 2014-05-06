@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hatebreed - Shoot It Yourself, Ignacio Galvez
+title: Hatebreed - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Hatebreed
 
-![Hatebreed](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/hatebreed-1.jpg)
+![Hatebreed]({{ site.book_image_path }}hatebreed-1.jpg)

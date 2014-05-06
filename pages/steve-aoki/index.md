@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Steve Aoki - Shoot It Yourself, Ignacio Galvez
+title: Steve Aoki - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Steve Aoki
 
-![Steve Aoki](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/steve-aoki-1.jpg)
+![Steve Aoki]({{ site.book_image_path }}steve-aoki-1.jpg)

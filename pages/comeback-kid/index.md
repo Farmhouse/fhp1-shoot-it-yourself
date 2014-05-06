@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Comeback Kid - Shoot It Yourself, Ignacio Galvez
+title: Comeback Kid - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Comeback Kid
 
-![Comeback Kid](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/comeback-kid-1.jpg)
+![Comeback Kid]({{ site.book_image_path }}comeback-kid-1.jpg)

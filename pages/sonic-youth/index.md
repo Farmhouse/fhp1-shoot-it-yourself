@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sonic Youth - Shoot It Yourself, Ignacio Galvez
+title: Sonic Youth - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Sonic Youth
 
-![Sonic Youth](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/sonic-youth-1.jpg)
-![Sonic Youth](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/sonic-youth-2.jpg)
+![Sonic Youth]({{ site.book_image_path }}sonic-youth-1.jpg)
+![Sonic Youth]({{ site.book_image_path }}sonic-youth-2.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tomahawk - Shoot It Yourself, Ignacio Galvez
+title: Tomahawk - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Tomahawk
 
-![Tomahawk](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/tomahawk-1.jpg)
+![Tomahawk]({{ site.book_image_path }}tomahawk-1.jpg)

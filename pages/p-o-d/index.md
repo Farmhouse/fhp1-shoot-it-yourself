@@ -1,8 +1,8 @@
 ---
 layout: default
-title: P.O.D. - Shoot It Yourself, Ignacio Galvez
+title: P.O.D. - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # P.O.D.
 
-![P.O.D.](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/p-o-d-1.jpg)
+![P.O.D.]({{ site.book_image_path }}p-o-d-1.jpg)

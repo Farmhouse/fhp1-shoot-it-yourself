@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dinosaur Jr - Shoot It Yourself, Ignacio Galvez
+title: Dinosaur Jr - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Dinosaur Jr
 
-![Dinosaur Jr](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/dinosaur-jr-1.jpg)
+![Dinosaur Jr]({{ site.book_image_path }}dinosaur-jr-1.jpg)

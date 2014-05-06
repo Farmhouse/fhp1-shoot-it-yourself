@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Suicidal Tendencies - Shoot It Yourself, Ignacio Galvez
+title: Suicidal Tendencies - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Suicidal Tendencies
 
-![Suicidal Tendencies](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/suicidal-tendencies-1.jpg)
-![Suicidal Tendencies](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/suicidal-tendencies-2.jpg)
+![Suicidal Tendencies]({{ site.book_image_path }}suicidal-tendencies-1.jpg)
+![Suicidal Tendencies]({{ site.book_image_path }}suicidal-tendencies-2.jpg)

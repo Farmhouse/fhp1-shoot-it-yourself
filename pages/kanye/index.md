@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Kanye - Shoot It Yourself, Ignacio Galvez
+title: Kanye - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Kanye
 
-![Kanye](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/kanye-1.jpg)
+![Kanye]({{ site.book_image_path }}kanye-1.jpg)

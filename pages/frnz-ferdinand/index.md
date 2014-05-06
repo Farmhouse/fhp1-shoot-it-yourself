@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Frnz Ferdinand - Shoot It Yourself, Ignacio Galvez
+title: Frnz Ferdinand - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Frnz Ferdinand
 
-![Frnz Ferdinand](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/frnz-ferdinand-1.jpg)
+![Frnz Ferdinand]({{ site.book_image_path }}frnz-ferdinand-1.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Limp Bizkit - Shoot It Yourself, Ignacio Galvez
+title: Limp Bizkit - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Limp Bizkit
 
-![Limp Bizkit](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/limp-bizkit-1.jpg)
+![Limp Bizkit]({{ site.book_image_path }}limp-bizkit-1.jpg)

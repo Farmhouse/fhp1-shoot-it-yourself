@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Ozzy Osbourne - Shoot It Yourself, Ignacio Galvez
+title: Ozzy Osbourne - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Ozzy Osbourne
 
-![Ozzy Osbourne](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/ozzy-osbourne-1.jpg)
+![Ozzy Osbourne]({{ site.book_image_path }}ozzy-osbourne-1.jpg)

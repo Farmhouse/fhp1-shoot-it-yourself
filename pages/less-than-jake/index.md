@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Less Than Jake - Shoot It Yourself, Ignacio Galvez
+title: Less Than Jake - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Less Than Jake
 
-![Less Than Jake](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/less-than-jake-1.jpg)
+![Less Than Jake]({{ site.book_image_path }}less-than-jake-1.jpg)

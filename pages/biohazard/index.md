@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Biohazard - Shoot It Yourself, Ignacio Galvez
+title: Biohazard - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Biohazard
 
-![Biohazard](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/biohazard-1.jpg)
-![Biohazard](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/biohazard-2.jpg)
+![Biohazard]({{ site.book_image_path }}biohazard-1.jpg)
+![Biohazard]({{ site.book_image_path }}biohazard-2.jpg)

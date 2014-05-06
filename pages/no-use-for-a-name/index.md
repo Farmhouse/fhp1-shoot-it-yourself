@@ -1,8 +1,8 @@
 ---
 layout: default
-title: No Use For A Name - Shoot It Yourself, Ignacio Galvez
+title: No Use For A Name - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # No Use For A Name
 
-![No Use For A Name](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/no-use-for-a-name-1.jpg)
+![No Use For A Name]({{ site.book_image_path }}no-use-for-a-name-1.jpg)

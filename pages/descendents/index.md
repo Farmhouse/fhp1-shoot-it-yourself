@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Descendents - Shoot It Yourself, Ignacio Galvez
+title: Descendents - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Descendents
 
-![Descendents](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/descendents-1.jpg)
+![Descendents]({{ site.book_image_path }}descendents-1.jpg)

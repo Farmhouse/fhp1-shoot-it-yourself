@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Incubus - Shoot It Yourself, Ignacio Galvez
+title: Incubus - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Incubus
 
-![Incubus](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/incubus-1.jpg)
-![Incubus](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/incubus-2.jpg)
-![Incubus](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/incubus-3.jpg)
+![Incubus]({{ site.book_image_path }}incubus-1.jpg)
+![Incubus]({{ site.book_image_path }}incubus-2.jpg)
+![Incubus]({{ site.book_image_path }}incubus-3.jpg)

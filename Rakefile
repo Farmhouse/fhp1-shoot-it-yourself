@@ -20,7 +20,7 @@ end
 def create_page(path, slug, title, photos)
   content = %Q(---
 layout: default
-title: #{title} - #{config("book_title")}, #{config("book_author")}
+title: #{title} - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # #{title}
@@ -28,7 +28,7 @@ title: #{title} - #{config("book_title")}, #{config("book_author")}
 )
 
   photos.times do |index|
-    content << "![#{title}](#{config("book_image_path")}#{slug}-#{index + 1}.jpg)\n"
+    content << "![#{title}]({{ site.book_image_path }}#{slug}-#{index + 1}.jpg)\n"
   end
 
   File.write path, content
@@ -69,7 +69,7 @@ file 'pages/index.md' => %w[pages _data/pages.yml] do
 
   content << "---
 layout: default
-title: Table of Contents - #{config("book_title")}, #{config("book_author")}
+title: Table of Contents - {{ site.book_title }}, {{ site.book_author }}
 ---"
   content << "{% include table_of_contents_message.html %}\n"
 

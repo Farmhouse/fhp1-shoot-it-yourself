@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Passion Pit - Shoot It Yourself, Ignacio Galvez
+title: Passion Pit - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Passion Pit
 
-![Passion Pit](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/passion-pit-1.jpg)
+![Passion Pit]({{ site.book_image_path }}passion-pit-1.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Wu Tang Clan - Shoot It Yourself, Ignacio Galvez
+title: Wu Tang Clan - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Wu Tang Clan
 
-![Wu Tang Clan](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/wu-tang-clan-1.jpg)
+![Wu Tang Clan]({{ site.book_image_path }}wu-tang-clan-1.jpg)

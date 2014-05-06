@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Strife - Shoot It Yourself, Ignacio Galvez
+title: Strife - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Strife
 
-![Strife](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/strife-1.jpg)
+![Strife]({{ site.book_image_path }}strife-1.jpg)

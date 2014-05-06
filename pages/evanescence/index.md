@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Evanescence - Shoot It Yourself, Ignacio Galvez
+title: Evanescence - {{ site.book_title }}, {{ site.book_author }}
 ---
 
 # Evanescence
 
-![Evanescence](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/evanescence-1.jpg)
+![Evanescence]({{ site.book_image_path }}evanescence-1.jpg)
