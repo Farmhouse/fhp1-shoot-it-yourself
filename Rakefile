@@ -69,7 +69,7 @@ file 'pages/index.md' => %w[pages _data/pages.yml] do
 
   content << "---
 layout: default
-title: #{title} - #{config("book_title")}, #{config("book_author")}
+title: Table of Contents - #{config("book_title")}, #{config("book_author")}
 ---"
   content << "{% include table_of_contents_message.html %}\n"
 
