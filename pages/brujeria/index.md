@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Brujeria - {{ site.book_title }}, {{ site.book_author }}
+title: Brujeria - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Brujeria
 
-![Brujeria]({{ site.book_image_path }}brujeria-1.jpg)
-![Brujeria]({{ site.book_image_path }}brujeria-2.jpg)
-![Brujeria]({{ site.book_image_path }}brujeria-3.jpg)
+![Brujeria](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/brujeria-1.jpg)
+![Brujeria](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/brujeria-2.jpg)
+![Brujeria](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/brujeria-3.jpg)

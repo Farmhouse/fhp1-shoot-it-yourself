@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Millencolin - {{ site.book_title }}, {{ site.book_author }}
+title: Millencolin - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Millencolin
 
-![Millencolin]({{ site.book_image_path }}millencolin-1.jpg)
+![Millencolin](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/millencolin-1.jpg)

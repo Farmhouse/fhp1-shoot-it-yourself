@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sepultura - {{ site.book_title }}, {{ site.book_author }}
+title: Sepultura - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Sepultura
 
-![Sepultura]({{ site.book_image_path }}sepultura-1.jpg)
-![Sepultura]({{ site.book_image_path }}sepultura-2.jpg)
+![Sepultura](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/sepultura-1.jpg)
+![Sepultura](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/sepultura-2.jpg)

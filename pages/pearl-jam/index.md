@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Pearl Jam - {{ site.book_title }}, {{ site.book_author }}
+title: Pearl Jam - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Pearl Jam
 
-![Pearl Jam]({{ site.book_image_path }}pearl-jam-1.jpg)
+![Pearl Jam](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/pearl-jam-1.jpg)

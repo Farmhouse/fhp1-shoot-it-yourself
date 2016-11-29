@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Judge - {{ site.book_title }}, {{ site.book_author }}
+title: Judge - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Judge
 
-![Judge]({{ site.book_image_path }}judge-1.jpg)
-![Judge]({{ site.book_image_path }}judge-2.jpg)
+![Judge](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/judge-1.jpg)
+![Judge](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/judge-2.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Anneke - {{ site.book_title }}, {{ site.book_author }}
+title: Anneke - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Anneke
 
-![Anneke]({{ site.book_image_path }}anneke-1.jpg)
+![Anneke](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/anneke-1.jpg)

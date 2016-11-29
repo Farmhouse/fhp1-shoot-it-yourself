@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Janes Addiction - {{ site.book_title }}, {{ site.book_author }}
+title: Janes Addiction - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Janes Addiction
 
-![Janes Addiction]({{ site.book_image_path }}janes-addiction-1.jpg)
+![Janes Addiction](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/janes-addiction-1.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Suicide Silence - {{ site.book_title }}, {{ site.book_author }}
+title: Suicide Silence - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Suicide Silence
 
-![Suicide Silence]({{ site.book_image_path }}suicide-silence-1.jpg)
+![Suicide Silence](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/suicide-silence-1.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Perrosky - {{ site.book_title }}, {{ site.book_author }}
+title: Perrosky - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Perrosky
 
-![Perrosky]({{ site.book_image_path }}perrosky-1.jpg)
+![Perrosky](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/perrosky-1.jpg)

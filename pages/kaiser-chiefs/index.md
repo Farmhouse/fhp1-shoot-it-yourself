@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Kaiser Chiefs - {{ site.book_title }}, {{ site.book_author }}
+title: Kaiser Chiefs - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Kaiser Chiefs
 
-![Kaiser Chiefs]({{ site.book_image_path }}kaiser-chiefs-1.jpg)
+![Kaiser Chiefs](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/kaiser-chiefs-1.jpg)

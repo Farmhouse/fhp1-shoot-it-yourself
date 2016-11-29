@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Deftones - {{ site.book_title }}, {{ site.book_author }}
+title: Deftones - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Deftones
 
-![Deftones]({{ site.book_image_path }}deftones-1.jpg)
+![Deftones](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/deftones-1.jpg)

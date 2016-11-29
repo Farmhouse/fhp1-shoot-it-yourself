@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Pixies - {{ site.book_title }}, {{ site.book_author }}
+title: Pixies - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Pixies
 
-![Pixies]({{ site.book_image_path }}pixies-1.jpg)
+![Pixies](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/pixies-1.jpg)

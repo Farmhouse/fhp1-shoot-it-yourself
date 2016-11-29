@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cannibal Corpse - {{ site.book_title }}, {{ site.book_author }}
+title: Cannibal Corpse - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Cannibal Corpse
 
-![Cannibal Corpse]({{ site.book_image_path }}cannibal-corpse-1.jpg)
-![Cannibal Corpse]({{ site.book_image_path }}cannibal-corpse-2.jpg)
+![Cannibal Corpse](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/cannibal-corpse-1.jpg)
+![Cannibal Corpse](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/cannibal-corpse-2.jpg)

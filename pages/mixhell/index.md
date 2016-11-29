@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Mixhell - {{ site.book_title }}, {{ site.book_author }}
+title: Mixhell - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Mixhell
 
-![Mixhell]({{ site.book_image_path }}mixhell-1.jpg)
+![Mixhell](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/mixhell-1.jpg)

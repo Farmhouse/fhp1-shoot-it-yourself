@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Garbage - {{ site.book_title }}, {{ site.book_author }}
+title: Garbage - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Garbage
 
-![Garbage]({{ site.book_image_path }}garbage-1.jpg)
-![Garbage]({{ site.book_image_path }}garbage-2.jpg)
+![Garbage](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/garbage-1.jpg)
+![Garbage](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/garbage-2.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Paramore - {{ site.book_title }}, {{ site.book_author }}
+title: Paramore - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Paramore
 
-![Paramore]({{ site.book_image_path }}paramore-1.jpg)
+![Paramore](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/paramore-1.jpg)

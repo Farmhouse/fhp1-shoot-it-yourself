@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Earth Crisis - {{ site.book_title }}, {{ site.book_author }}
+title: Earth Crisis - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Earth Crisis
 
-![Earth Crisis]({{ site.book_image_path }}earth-crisis-1.jpg)
-![Earth Crisis]({{ site.book_image_path }}earth-crisis-2.jpg)
+![Earth Crisis](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/earth-crisis-1.jpg)
+![Earth Crisis](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/earth-crisis-2.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Chris Cornell - {{ site.book_title }}, {{ site.book_author }}
+title: Chris Cornell - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Chris Cornell
 
-![Chris Cornell]({{ site.book_image_path }}chris-cornell-1.jpg)
+![Chris Cornell](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/chris-cornell-1.jpg)

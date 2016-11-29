@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Blur - {{ site.book_title }}, {{ site.book_author }}
+title: Blur - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Blur
 
-![Blur]({{ site.book_image_path }}blur-1.jpg)
-![Blur]({{ site.book_image_path }}blur-2.jpg)
+![Blur](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/blur-1.jpg)
+![Blur](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/blur-2.jpg)

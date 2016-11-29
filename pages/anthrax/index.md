@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Anthrax - {{ site.book_title }}, {{ site.book_author }}
+title: Anthrax - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Anthrax
 
-![Anthrax]({{ site.book_image_path }}anthrax-1.jpg)
+![Anthrax](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/anthrax-1.jpg)

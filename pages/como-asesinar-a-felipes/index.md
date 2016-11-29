@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Como Asesinar a Felipes - {{ site.book_title }}, {{ site.book_author }}
+title: Como Asesinar a Felipes - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Como Asesinar a Felipes
 
-![Como Asesinar a Felipes]({{ site.book_image_path }}como-asesinar-a-felipes-1.jpg)
+![Como Asesinar a Felipes](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/como-asesinar-a-felipes-1.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Disturbed - {{ site.book_title }}, {{ site.book_author }}
+title: Disturbed - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Disturbed
 
-![Disturbed]({{ site.book_image_path }}disturbed-1.jpg)
+![Disturbed](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/disturbed-1.jpg)

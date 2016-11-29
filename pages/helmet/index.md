@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Helmet - {{ site.book_title }}, {{ site.book_author }}
+title: Helmet - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Helmet
 
-![Helmet]({{ site.book_image_path }}helmet-1.jpg)
+![Helmet](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/helmet-1.jpg)

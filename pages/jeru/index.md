@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Jeru - {{ site.book_title }}, {{ site.book_author }}
+title: Jeru - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Jeru
 
-![Jeru]({{ site.book_image_path }}jeru-1.jpg)
+![Jeru](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/jeru-1.jpg)

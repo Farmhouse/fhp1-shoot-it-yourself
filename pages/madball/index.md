@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Madball - {{ site.book_title }}, {{ site.book_author }}
+title: Madball - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Madball
 
-![Madball]({{ site.book_image_path }}madball-1.jpg)
-![Madball]({{ site.book_image_path }}madball-2.jpg)
-![Madball]({{ site.book_image_path }}madball-3.jpg)
+![Madball](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/madball-1.jpg)
+![Madball](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/madball-2.jpg)
+![Madball](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/madball-3.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Circle Jerks - {{ site.book_title }}, {{ site.book_author }}
+title: Circle Jerks - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Circle Jerks
 
-![Circle Jerks]({{ site.book_image_path }}circle-jerks-1.jpg)
+![Circle Jerks](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/circle-jerks-1.jpg)

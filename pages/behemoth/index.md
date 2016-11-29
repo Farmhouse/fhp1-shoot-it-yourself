@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Behemoth - {{ site.book_title }}, {{ site.book_author }}
+title: Behemoth - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Behemoth
 
-![Behemoth]({{ site.book_image_path }}behemoth-1.jpg)
-![Behemoth]({{ site.book_image_path }}behemoth-2.jpg)
+![Behemoth](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/behemoth-1.jpg)
+![Behemoth](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/behemoth-2.jpg)

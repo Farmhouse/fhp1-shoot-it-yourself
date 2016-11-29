@@ -1,8 +1,8 @@
 ---
 layout: default
-title: AFI - {{ site.book_title }}, {{ site.book_author }}
+title: AFI - Shoot It Yourself, Ignacio Galvez
 ---
 
 # AFI
 
-![AFI]({{ site.book_image_path }}afi-1.jpg)
+![AFI](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/afi-1.jpg)

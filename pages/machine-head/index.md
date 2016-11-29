@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Machine Head - {{ site.book_title }}, {{ site.book_author }}
+title: Machine Head - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Machine Head
 
-![Machine Head]({{ site.book_image_path }}machine-head-1.jpg)
+![Machine Head](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/machine-head-1.jpg)

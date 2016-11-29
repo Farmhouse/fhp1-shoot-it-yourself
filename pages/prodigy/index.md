@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prodigy - {{ site.book_title }}, {{ site.book_author }}
+title: Prodigy - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Prodigy
 
-![Prodigy]({{ site.book_image_path }}prodigy-1.jpg)
-![Prodigy]({{ site.book_image_path }}prodigy-2.jpg)
-![Prodigy]({{ site.book_image_path }}prodigy-3.jpg)
+![Prodigy](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/prodigy-1.jpg)
+![Prodigy](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/prodigy-2.jpg)
+![Prodigy](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/prodigy-3.jpg)

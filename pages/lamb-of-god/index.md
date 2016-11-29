@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lamb of God - {{ site.book_title }}, {{ site.book_author }}
+title: Lamb of God - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Lamb of God
 
-![Lamb of God]({{ site.book_image_path }}lamb-of-god-1.jpg)
+![Lamb of God](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/lamb-of-god-1.jpg)

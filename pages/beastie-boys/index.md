@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Beastie Boys - {{ site.book_title }}, {{ site.book_author }}
+title: Beastie Boys - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Beastie Boys
 
-![Beastie Boys]({{ site.book_image_path }}beastie-boys-1.jpg)
+![Beastie Boys](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/beastie-boys-1.jpg)

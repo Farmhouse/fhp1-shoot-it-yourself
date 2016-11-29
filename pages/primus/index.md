@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Primus - {{ site.book_title }}, {{ site.book_author }}
+title: Primus - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Primus
 
-![Primus]({{ site.book_image_path }}primus-1.jpg)
-![Primus]({{ site.book_image_path }}primus-2.jpg)
+![Primus](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/primus-1.jpg)
+![Primus](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/primus-2.jpg)

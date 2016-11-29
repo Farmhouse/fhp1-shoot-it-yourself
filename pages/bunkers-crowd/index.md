@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bunkers Crowd - {{ site.book_title }}, {{ site.book_author }}
+title: Bunkers Crowd - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Bunkers Crowd
 
-![Bunkers Crowd]({{ site.book_image_path }}bunkers-crowd-1.jpg)
+![Bunkers Crowd](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/bunkers-crowd-1.jpg)

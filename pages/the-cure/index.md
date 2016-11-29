@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The Cure - {{ site.book_title }}, {{ site.book_author }}
+title: The Cure - Shoot It Yourself, Ignacio Galvez
 ---
 
 # The Cure
 
-![The Cure]({{ site.book_image_path }}the-cure-1.jpg)
+![The Cure](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/the-cure-1.jpg)

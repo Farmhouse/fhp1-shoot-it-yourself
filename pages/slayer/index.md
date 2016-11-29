@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Slayer - {{ site.book_title }}, {{ site.book_author }}
+title: Slayer - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Slayer
 
-![Slayer]({{ site.book_image_path }}slayer-1.jpg)
-![Slayer]({{ site.book_image_path }}slayer-2.jpg)
+![Slayer](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/slayer-1.jpg)
+![Slayer](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/slayer-2.jpg)

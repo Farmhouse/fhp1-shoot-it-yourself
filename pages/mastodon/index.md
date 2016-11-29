@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Mastodon - {{ site.book_title }}, {{ site.book_author }}
+title: Mastodon - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Mastodon
 
-![Mastodon]({{ site.book_image_path }}mastodon-1.jpg)
-![Mastodon]({{ site.book_image_path }}mastodon-2.jpg)
-![Mastodon]({{ site.book_image_path }}mastodon-3.jpg)
-![Mastodon]({{ site.book_image_path }}mastodon-4.jpg)
-![Mastodon]({{ site.book_image_path }}mastodon-5.jpg)
+![Mastodon](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/mastodon-1.jpg)
+![Mastodon](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/mastodon-2.jpg)
+![Mastodon](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/mastodon-3.jpg)
+![Mastodon](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/mastodon-4.jpg)
+![Mastodon](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/mastodon-5.jpg)

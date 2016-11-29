@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Primal Scream - {{ site.book_title }}, {{ site.book_author }}
+title: Primal Scream - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Primal Scream
 
-![Primal Scream]({{ site.book_image_path }}primal-scream-1.jpg)
+![Primal Scream](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/primal-scream-1.jpg)

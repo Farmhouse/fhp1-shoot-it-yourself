@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Stone Sour - {{ site.book_title }}, {{ site.book_author }}
+title: Stone Sour - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Stone Sour
 
-![Stone Sour]({{ site.book_image_path }}stone-sour-1.jpg)
+![Stone Sour](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/stone-sour-1.jpg)

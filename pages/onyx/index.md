@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Onyx - {{ site.book_title }}, {{ site.book_author }}
+title: Onyx - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Onyx
 
-![Onyx]({{ site.book_image_path }}onyx-1.jpg)
+![Onyx](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/onyx-1.jpg)

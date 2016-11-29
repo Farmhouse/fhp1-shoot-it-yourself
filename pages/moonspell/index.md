@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Moonspell - {{ site.book_title }}, {{ site.book_author }}
+title: Moonspell - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Moonspell
 
-![Moonspell]({{ site.book_image_path }}moonspell-1.jpg)
-![Moonspell]({{ site.book_image_path }}moonspell-2.jpg)
+![Moonspell](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/moonspell-1.jpg)
+![Moonspell](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/moonspell-2.jpg)

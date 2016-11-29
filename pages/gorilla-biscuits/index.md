@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Gorilla Biscuits - {{ site.book_title }}, {{ site.book_author }}
+title: Gorilla Biscuits - Shoot It Yourself, Ignacio Galvez
 ---
 
 # Gorilla Biscuits
 
-![Gorilla Biscuits]({{ site.book_image_path }}gorilla-biscuits-1.jpg)
-![Gorilla Biscuits]({{ site.book_image_path }}gorilla-biscuits-2.jpg)
+![Gorilla Biscuits](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/gorilla-biscuits-1.jpg)
+![Gorilla Biscuits](http://assets.farmhouse.co/publishing/1-shoot-it-yourself/images/gorilla-biscuits-2.jpg)
